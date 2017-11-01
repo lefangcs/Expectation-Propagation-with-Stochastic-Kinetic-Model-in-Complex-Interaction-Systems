@@ -1,0 +1,2 @@
+# Expectation-Propagation-with-Stochastic-Kinetic-Model-in-Complex-Interaction-Systems
+This code repository is for the NIPS 2017 paper "Expectation Propagation with Stochastic Kinetic Model in Complex Interaction Systems". The authors are Le Fang, Fan Yang, Wen Dong, Tong Guan, and Chunming Qiao, working at Department of Computer Science and Engineering, University at Buffalo. Contact emails are {lefang, fyang24, wendong, tongguan, qiao}@buffalo.edu.
